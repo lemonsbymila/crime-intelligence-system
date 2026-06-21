@@ -8,4 +8,4 @@ A beginner Python project that simulates a simple crime case reporting system.
 - Saves cases to file
 
 ## How to run
-python main.py
+python hello.py
