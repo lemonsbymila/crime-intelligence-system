@@ -1,0 +1,10 @@
+
+============================
+CRIME INTELLIGENCE REPORT
+============================
+Case ID: A102
+Analyst: Mila
+Location: Florida
+Incident Type: Cyber Crime
+Risk Level: Medium
+============================
